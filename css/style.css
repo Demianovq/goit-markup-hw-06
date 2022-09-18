@@ -137,6 +137,7 @@ img {
 	display: flex;
 	align-items: center;
 	gap: 10px;
+	margin-right: 20px;
 }
 
 .contacts-link {
