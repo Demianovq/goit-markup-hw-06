@@ -345,8 +345,8 @@ img {
 	border: 1px solid var(--accent-color);
 }
 
-.modal-field:hover > .modal-icon,
-.modal-field:focus > .modal-icon {
+.modal-input:hover + .modal-icon,
+.modal-input:focus + .modal-icon {
 	fill: var(--accent-color);
 }
 
